@@ -3,7 +3,7 @@ title: " "
 subtitle: " "
 image: img/screenshot-2023-04-23-at-5.49.53-pm.png
 blurb:
-  heading: Why Kaldi?
+  heading: Wrap yourself in Indian Craftsmanship!
   text: Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
